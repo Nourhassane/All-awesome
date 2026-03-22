@@ -9,7 +9,6 @@
 
 ## 📚 Table des matières
 
-- [🗂️ Collections Massives (60 000+ outils)](#️-collections-massives-60-000-outils)
 - [🤖 Assistants IA](#-assistants-ia)
 - [🖥️ Éditeurs & IDEs](#️-éditeurs--ides)
 - [🌐 Développement Frontend](#-développement-frontend)
@@ -30,19 +29,279 @@
 
 ---
 
-## 🗂️ Collections Massives (60 000+ outils)
+### ⚙️ Développement Backend & APIs — Collections Complètes
 
-> En plus de notre sélection minutieuse ci-dessous, nous avons compilé un index massif de **plus de 60 000 outils** à travers des collections complètes (les "Awesome Lists" officielles de la communauté). Explorez ces index géants :
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Node.js** | Packages et ressources Node.js | [github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) |
+| **Awesome Deno** | Modules et ressources Deno | [github.com/denolib/awesome-deno](https://github.com/denolib/awesome-deno) |
+| **Awesome Django** | Packages et ressources Django | [github.com/wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) |
+| **Awesome Flask** | Extensions et ressources Flask | [github.com/mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask) |
+| **Awesome FastAPI** | Ressources et outils FastAPI | [github.com/mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) |
+| **Awesome Laravel** | Packages et ressources Laravel | [github.com/chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) |
+| **Awesome Rails** | Gems et ressources Ruby on Rails | [github.com/gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) |
+| **Awesome Spring** | Bibliothèques et ressources Spring Boot | [github.com/ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring) |
+| **Awesome Express** | Middlewares et ressources Express.js | [github.com/rajikaimal/awesome-express](https://github.com/rajikaimal/awesome-express) |
+| **Awesome NestJS** | Modules et ressources NestJS | [github.com/nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) |
+| **Awesome GraphQL** | Serveurs, clients et ressources GraphQL | [github.com/chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) |
+| **Awesome REST** | Frameworks, outils et ressources REST APIs | [github.com/marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) |
+| **Awesome gRPC** | Implémentations et ressources gRPC | [github.com/grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) |
+| **Awesome Microservices** | Outils, frameworks architectures microservices | [github.com/mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) |
+| **Awesome Serverless** | Frameworks et ressources serverless | [github.com/pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) |
+| **Awesome Nginx** | Modules et ressources Nginx | [github.com/fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) |
+| **Awesome WebSockets** | Bibliothèques et ressources WebSockets | [github.com/facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) |
+| **Awesome OpenAPI** | Outils autour de la spec OpenAPI/Swagger | [github.com/APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) |
 
-* [💻 **Langages de Programmation**](collections/langages.md) — *Python, JS, Go, Rust, C++, Java, etc.*
-* [🌐 **Développement Frontend**](collections/frontend.md) — *React, Vue, CSS, WebPerf, Animation, etc.*
-* [⚙️ **Développement Backend & APIs**](collections/backend.md) — *Node.js, Django, REST, GraphQL, Microservices, etc.*
-* [🤖 **Intelligence Artificielle & ML**](collections/ia-ml.md) — *LLMs, ChatGPT, PyTorch, Data Science, Hugging Face, etc.*
-* [🗄️ **Bases de Données & Data**](collections/bases-de-donnees.md) — *PostgreSQL, Redis, Big Data, Spark, Analytics, etc.*
-* [🐳 **DevOps, Cloud & Infra**](collections/devops.md) — *Docker, K8s, Terraform, AWS, Azure, CI/CD, etc.*
-* [🔐 **Sécurité & Cybersécurité**](collections/securite.md) — *Pentest, OSINT, Hacking éthique, Cryptographie, etc.*
-* [📱 **Mobile & Desktop**](collections/mobile.md) — *React Native, Flutter, iOS, Android, Electron, Tauri, etc.*
-* [🧩 **Divers (Tests, Design, Jeux, Web3)**](collections/divers.md) — *Playwright, Figma, Unity, Blockchain, CLI, etc.*
+### 🗄️ Bases de Données & Données — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Databases** | Bases de données, ORMs et outils | [github.com/numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db) |
+| **Awesome PostgreSQL** | Extensions, outils et ressources PostgreSQL | [github.com/dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) |
+| **Awesome MySQL** | Outils, clients et ressources MySQL | [github.com/shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) |
+| **Awesome MongoDB** | Bibliothèques, outils et ressources MongoDB | [github.com/ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) |
+| **Awesome Redis** | Bibliothèques, outils et ressources Redis | [github.com/JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) |
+| **Awesome SQLite** | Extensions et outils SQLite | [github.com/planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) |
+| **Awesome Cassandra** | Ressources et outils Apache Cassandra | [github.com/Anant/awesome-cassandra](https://github.com/Anant/awesome-cassandra) |
+| **Awesome Elasticsearch** | Plugins et ressources Elasticsearch | [github.com/dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) |
+| **Awesome Graph Databases** | Bases de données graphes et ressources | [github.com/jbenner-radham/awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) |
+| **Awesome Time Series DB** | Bases de données séries temporelles | [github.com/xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) |
+| **Awesome Big Data** | Frameworks, outils et ressources Big Data | [github.com/0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) |
+| **Awesome Apache Spark** | Bibliothèques et ressources Spark | [github.com/awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark) |
+| **Awesome Kafka** | Outils, connecteurs et ressources Kafka | [github.com/infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka) |
+| **Awesome Data Engineering** | Outils et ressources Data Engineering | [github.com/igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) |
+| **Awesome ETL** | Outils et frameworks ETL/ELT | [github.com/pawl/awesome-etl](https://github.com/pawl/awesome-etl) |
+| **Awesome Analytics** | Plateformes et outils d'analytics | [github.com/newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) |
+| **Awesome Supabase** | Outils et ressources autour de Supabase | [github.com/lyqht/awesome-supabase](https://github.com/lyqht/awesome-supabase) |
+
+### 🐳 DevOps, Cloud & Infrastructure — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome DevOps** | Outils, ressources et pratiques DevOps | [github.com/wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) |
+| **Awesome Docker** | Ressources, images et outils Docker | [github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) |
+| **Awesome Kubernetes** | Outils, guides et ressources Kubernetes | [github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) |
+| **Awesome Terraform** | Modules, providers et ressources Terraform | [github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) |
+| **Awesome Ansible** | Rôles, plugins et ressources Ansible | [github.com/KeyboardInterrupt/awesome-ansible](https://github.com/KeyboardInterrupt/awesome-ansible) |
+| **Awesome CI/CD** | Outils et ressources intégration continue | [github.com/ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) |
+| **Awesome GitHub Actions** | Actions, workflows et ressources GitHub Actions | [github.com/sdras/awesome-actions](https://github.com/sdras/awesome-actions) |
+| **Awesome AWS** | Bibliothèques, outils et ressources AWS | [github.com/donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) |
+| **Awesome Azure** | Outils et ressources Microsoft Azure | [github.com/kristofferandreasen/awesome-azure](https://github.com/kristofferandreasen/awesome-azure) |
+| **Awesome GCP** | Outils et ressources Google Cloud Platform | [github.com/GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) |
+| **Awesome Cloudflare** | Workers, Pages et ressources Cloudflare | [github.com/irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) |
+| **Awesome Serverless** | Frameworks et ressources serverless | [github.com/pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) |
+| **Awesome Helm** | Charts, plugins et ressources Helm | [github.com/cdwv/awesome-helm](https://github.com/cdwv/awesome-helm) |
+| **Awesome Prometheus** | Exporters, alertes et ressources Prometheus | [github.com/roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) |
+| **Awesome Grafana** | Plugins, dashboards et ressources Grafana | [github.com/monitoringartist/awesome-grafana](https://github.com/monitoringartist/awesome-grafana) |
+| **Awesome SRE** | Site Reliability Engineering — ressources | [github.com/dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) |
+| **Awesome Platform Engineering** | Outils et ressources Platform Engineering | [github.com/toptechevents/awesome-platformengineering](https://github.com/toptechevents/awesome-platformengineering) |
+| **Awesome Chaos Engineering** | Outils et ressources Chaos Engineering | [github.com/dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) |
+| **Awesome Nginx** | Modules, configurations et ressources Nginx | [github.com/fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) |
+| **Awesome Linux** | Outils, applications et ressources Linux | [github.com/inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) |
+
+### 🧪 Tests, Qualité & Outils Divers — Collections Complètes
+
+## 🧪 Tests
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Testing** | Frameworks, outils et ressources de test | [github.com/TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) |
+| **Awesome Test Automation** | Outils et ressources test automation | [github.com/atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) |
+| **Awesome Selenium** | Outils et ressources Selenium | [github.com/christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium) |
+| **Awesome Playwright** | Ressources et plugins Playwright | [github.com/mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) |
+| **Awesome Cypress** | Plugins et ressources Cypress | [github.com/bahmutov/awesome-cypress](https://github.com/bahmutov/awesome-cypress) |
+| **Awesome Jest** | Extensions, reporters et ressources Jest | [github.com/jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) |
+| **Awesome Load Testing** | Outils de test de charge et performance | [github.com/aliesbelik/awesome-load-testing](https://github.com/aliesbelik/awesome-load-testing) |
+| **Awesome BDD** | Outils Behaviour-Driven Development | [github.com/youngbrioche/awesome-bdd](https://github.com/youngbrioche/awesome-bdd) |
+
+## 🎨 Design & UX
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Design** | Ressources, outils et inspiration design | [github.com/gztchan/awesome-design](https://github.com/gztchan/awesome-design) |
+| **Awesome Design Tools** | Outils pour designers et developers | [github.com/goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) |
+| **Awesome Figma** | Plugins, ressources et communauté Figma | [github.com/react-figma/awesome-figma](https://github.com/react-figma/awesome-figma) |
+| **Awesome SVG** | Outils, bibliothèques et ressources SVG | [github.com/willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) |
+| **Awesome Icons** | Packs d'icônes et ressources | [github.com/notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) |
+| **Awesome Typography** | Polices, outils et ressources typographie | [github.com/Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) |
+| **Awesome Color** | Palettes, outils et ressources couleurs | [github.com/Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) |
+
+## 📊 Visualisation & Dashboards
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Data Visualization** | Bibliothèques et outils de dataviz | [github.com/fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) |
+| **Awesome Chart.js** | Extensions et ressources Chart.js | [github.com/chartjs/awesome](https://github.com/chartjs/awesome) |
+| **Awesome Plotly** | Ressources et exemples Plotly | [github.com/adithya-s-sekhar/awesome-plotly](https://github.com/adithya-s-sekhar/awesome-plotly) |
+
+## ⚡ Productivité & Outils Terminal
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Shell** | Scripts, frameworks et ressources shell | [github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) |
+| **Awesome CLI Apps** | Applications en ligne de commande | [github.com/agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) |
+| **Awesome Command Line** | Outils et ressources pour le terminal | [github.com/herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) |
+| **Awesome Git** | Addons, tips et ressources Git | [github.com/dictcp/awesome-git](https://github.com/dictcp/awesome-git) |
+| **Awesome GitHub** | Outils, apps et ressources GitHub | [github.com/phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) |
+| **Awesome VS Code** | Extensions et ressources VS Code | [github.com/viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) |
+| **Awesome Neovim** | Plugins et ressources Neovim | [github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) |
+| **Awesome ZSH** | Plugins et thèmes ZSH | [github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) |
+| **Awesome tmux** | Plugins et ressources tmux | [github.com/rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) |
+
+## 🎮 Développement de Jeux
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Game Dev** | Ressources pour le développement de jeux | [github.com/ellisonleao/magictools](https://github.com/ellisonleao/magictools) |
+| **Awesome Unity** | Assets, plugins et ressources Unity | [github.com/RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) |
+| **Awesome Godot** | Plugins et ressources Godot Engine | [github.com/godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) |
+| **Awesome Unreal** | Ressources Unreal Engine | [github.com/insthync/awesome-ue4](https://github.com/insthync/awesome-ue4) |
+| **Awesome WebGL** | Bibliothèques et ressources WebGL | [github.com/sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) |
+
+## 🔗 Blockchain & Web3
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Blockchain** | Ressources blockchain et DApps | [github.com/yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) |
+| **Awesome Ethereum** | Bibliothèques, outils et ressources Ethereum | [github.com/ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) |
+| **Awesome Solidity** | Ressources développement smart contracts | [github.com/bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) |
+| **Awesome Web3** | Outils et ressources Web3 | [github.com/ahmet/awesome-web3](https://github.com/ahmet/awesome-web3) |
+
+### 🌐 Développement Frontend — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome React** | 700+ outils, bibliothèques et ressources React | [github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react) |
+| **Awesome Vue** | Ressources, composants et outils Vue.js | [github.com/vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) |
+| **Awesome Angular** | Seeds, plugins et ressources Angular | [github.com/PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) |
+| **Awesome Svelte** | Ressources et outils Svelte | [github.com/TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) |
+| **Awesome Next.js** | Ressources et plugins Next.js | [github.com/unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) |
+| **Awesome Nuxt** | Modules et ressources Nuxt.js | [github.com/nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) |
+| **Awesome CSS** | Frameworks, bibliothèques et guides CSS | [github.com/awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) |
+| **Awesome Tailwind CSS** | Plugins, composants et ressources Tailwind | [github.com/aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) |
+| **Awesome HTML5** | Ressources et outils HTML5 | [github.com/diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) |
+| **Awesome Web Components** | Composants web natifs | [github.com/obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) |
+| **Awesome WebAssembly** | Outils, frameworks et ressources WASM | [github.com/mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) |
+| **Awesome Static Web** | Générateurs de sites statiques | [github.com/myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) |
+| **Awesome Astro** | Intégrations, thèmes et ressources Astro | [github.com/one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) |
+| **Awesome Animation** | Bibliothèques d'animation CSS/JS | [github.com/craftzdog/awesome-animations](https://github.com/craftzdog/awesome-animations) |
+| **Awesome D3** | Ressources et plugins D3.js | [github.com/wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) |
+| **Awesome Three.js** | Ressources Three.js / WebGL | [github.com/chrisvfritz/awesome-threejs](https://github.com/chrisvfritz/awesome-threejs) |
+| **Awesome Web Performance** | Outils d'optimisation des performances web | [github.com/pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) |
+| **Awesome Micro Frontends** | Ressources et outils micro-frontends | [github.com/rajasegar/awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends) |
+| **Awesome PWA** | Progressive Web Apps — ressources et outils | [github.com/hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) |
+| **Awesome Design Systems** | Collections de design systems | [github.com/alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) |
+| **Awesome Storybook** | Addons, guides et ressources Storybook | [github.com/lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) |
+| **Awesome Vite** | Plugins, templates et ressources Vite | [github.com/vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) |
+| **Awesome Web Accessibility** | Outils et ressources d'accessibilité web | [github.com/brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) |
+
+### 🤖 Intelligence Artificielle & Machine Learning — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Machine Learning** | Frameworks, bibliothèques et ressources ML | [github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) |
+| **Awesome Deep Learning** | Tutoriels, papers et outils Deep Learning | [github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) |
+| **Awesome AI** | Plateformes, bibliothèques et ressources IA | [github.com/owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) |
+| **Awesome LLMs** | Grands modèles de langage — ressources et outils | [github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) |
+| **Awesome ChatGPT** | Plugins, extensions et ressources ChatGPT | [github.com/humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) |
+| **Awesome AI Tools** | Outils IA pour la productivité et le dev | [github.com/mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) |
+| **Awesome Prompt Engineering** | Techniques et ressources de prompt engineering | [github.com/promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) |
+| **Awesome LangChain** | Ressources LangChain et ecosystème LLM | [github.com/kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) |
+| **Awesome Vector Search** | Bases de données vectorielles et outils RAG | [github.com/currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) |
+| **Awesome MLOps** | Outils et ressources pour le déploiement ML | [github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) |
+| **Awesome NLP** | Bibliothèques et ressources traitement du langage | [github.com/keon/awesome-nlp](https://github.com/keon/awesome-nlp) |
+| **Awesome Computer Vision** | Bibliothèques et ressources vision par ordinateur | [github.com/jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) |
+| **Awesome Generative AI** | Outils et modèles d'IA générative | [github.com/steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) |
+| **Awesome Stable Diffusion** | Outils et ressources Stable Diffusion | [github.com/awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) |
+| **Awesome Transformers** | Ressources autour des modèles Transformer | [github.com/dk-liang/Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) |
+| **Awesome AI Agents** | Frameworks et ressources pour agents IA | [github.com/e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) |
+| **Awesome OpenAI** | Outils, wrappers et ressources OpenAI | [github.com/humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) |
+| **Awesome Hugging Face** | Modèles, datasets et espaces HuggingFace | [huggingface.co/models](https://huggingface.co/models) |
+| **Awesome Data Science** | Outils, notebooks et ressources data science | [github.com/academic/awesome-datascience](https://github.com/academic/awesome-datascience) |
+| **Awesome Jupyter** | Extensions et ressources Jupyter Notebook | [github.com/markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) |
+| **Awesome TensorFlow** | Bibliothèques et ressources TensorFlow | [github.com/jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) |
+| **Awesome PyTorch** | Bibliothèques et ressources PyTorch | [github.com/bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) |
+| **Awesome Scikit-Learn** | Extensions et ressources scikit-learn | [github.com/fkromer/awesome-scikit-learn](https://github.com/fkromer/awesome-scikit-learn) |
+| **Awesome AutoML** | Outils et ressources AutoML | [github.com/windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) |
+| **Awesome Federated Learning** | Ressources Federated Learning | [github.com/weimingwill/awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning) |
+| **Awesome Reinforcement Learning** | Bibliothèques et papers sur le RL | [github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) |
+
+### 💻 Langages de Programmation — Collections Complètes
+
+> Chaque lien renvoie vers une liste curated de centaines d'outils, bibliothèques et ressources.
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Python** | 900+ bibliothèques, frameworks et outils Python | [github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) |
+| **Awesome JavaScript** | Bibliothèques, outils et ressources JS | [github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) |
+| **Awesome TypeScript** | Outils, bibliothèques et ressources TypeScript | [github.com/dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) |
+| **Awesome Go** | Frameworks, bibliothèques et outils Go | [github.com/avelino/awesome-go](https://github.com/avelino/awesome-go) |
+| **Awesome Rust** | Bibliothèques, outils et ressources Rust | [github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) |
+| **Awesome Java** | Frameworks, bibliothèques et logiciels Java | [github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java) |
+| **Awesome C++** | Frameworks, bibliothèques et ressources C++ | [github.com/fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) |
+| **Awesome C** | Bibliothèques et ressources C | [github.com/inputsh/awesome-c](https://github.com/inputsh/awesome-c) |
+| **Awesome C#** | Bibliothèques et ressources C# .NET | [github.com/quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) |
+| **Awesome Ruby** | Bibliothèques, outils et ressources Ruby | [github.com/markets/awesome-ruby](https://github.com/markets/awesome-ruby) |
+| **Awesome PHP** | Bibliothèques et ressources PHP | [github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) |
+| **Awesome Swift** | Bibliothèques et ressources Swift | [github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) |
+| **Awesome Kotlin** | Bibliothèques, frameworks et ressources Kotlin | [github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) |
+| **Awesome Scala** | Bibliothèques et ressources Scala | [github.com/lauris/awesome-scala](https://github.com/lauris/awesome-scala) |
+| **Awesome Haskell** | Bibliothèques et ressources Haskell | [github.com/krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) |
+| **Awesome Elixir** | Bibliothèques et ressources Elixir | [github.com/h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) |
+| **Awesome Erlang** | Bibliothèques et ressources Erlang | [github.com/drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) |
+| **Awesome Clojure** | Bibliothèques et ressources Clojure | [github.com/razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) |
+| **Awesome R** | Packages, outils et ressources R | [github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) |
+| **Awesome Julia** | Packages et ressources Julia | [github.com/svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) |
+| **Awesome Lua** | Packages et ressources Lua | [github.com/LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) |
+| **Awesome Perl** | Bibliothèques et ressources Perl | [github.com/hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) |
+| **Awesome Dart** | Packages et ressources Dart | [github.com/yissachar/awesome-dart](https://github.com/yissachar/awesome-dart) |
+| **Awesome OCaml** | Bibliothèques et ressources OCaml | [github.com/ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) |
+| **Awesome Nim** | Bibliothèques et ressources Nim | [github.com/xflywind/awesome-nim](https://github.com/xflywind/awesome-nim) |
+| **Awesome Zig** | Bibliothèques et ressources Zig | [github.com/catdevman/awesome-zig](https://github.com/catdevman/awesome-zig) |
+| **Awesome V** | Bibliothèques et ressources V-lang | [github.com/vlang/awesome-v](https://github.com/vlang/awesome-v) |
+| **Awesome Assembly** | Ressources Assembly | [github.com/lurumdare/awesome-asm](https://github.com/lurumdare/awesome-asm) |
+| **Awesome COBOL** | Ressources COBOL | [github.com/mickaelandrieu/awesome-cobol](https://github.com/mickaelandrieu/awesome-cobol) |
+| **Awesome Fortran** | Bibliothèques et ressources Fortran | [github.com/rabbiabram/awesome-fortran](https://github.com/rabbiabram/awesome-fortran) |
+
+### 📱 Mobile & Applications Bureau — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome React Native** | Bibliothèques, outils et ressources React Native | [github.com/jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) |
+| **Awesome Flutter** | Packages, apps et ressources Flutter | [github.com/Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) |
+| **Awesome Android** | Applications, bibliothèques et ressources Android | [github.com/JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) |
+| **Awesome iOS** | Bibliothèques, frameworks et ressources iOS | [github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) |
+| **Awesome Swift (iOS)** | Packages Swift pour iOS | [github.com/matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) |
+| **Awesome Kotlin Android** | Bibliothèques Android en Kotlin | [github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) |
+| **Awesome Ionic** | Plugins et ressources Ionic Framework | [github.com/candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) |
+| **Awesome Capacitor** | Plugins et ressources Capacitor.js | [github.com/riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) |
+| **Awesome Cordova** | Plugins et ressources Apache Cordova | [github.com/busterc/awesome-cordova](https://github.com/busterc/awesome-cordova) |
+| **Awesome Xamarin** | Extensions et ressources Xamarin | [github.com/XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin) |
+| **Awesome MAUI** | Ressources .NET MAUI (Mobile & Desktop) | [github.com/jsuarezruiz/awesome-dotnet-maui](https://github.com/jsuarezruiz/awesome-dotnet-maui) |
+| **Awesome Tauri** | Plugins et ressources Tauri | [github.com/tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) |
+| **Awesome Electron** | Modules et ressources Electron | [github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) |
+| **Awesome PWA** | Progressive Web Apps — ressources et exemples | [github.com/hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) |
+
+### 🔐 Sécurité & Cybersécurité — Collections Complètes
+
+| Collection | Description | Lien |
+|------------|-------------|------|
+| **Awesome Security** | Outils, ressources et pratiques de sécurité | [github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security) |
+| **Awesome Web Security** | Outils et ressources sécurité web | [github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) |
+| **Awesome Penetration Testing** | Outils et ressources pentest | [github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) |
+| **Awesome CTF** | Chall, writeups et ressources CTF | [github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) |
+| **Awesome Hacking** | Ressources et techniques de hacking éthique | [github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) |
+| **Awesome OSINT** | Outils et ressources OSINT | [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) |
+| **Awesome Malware Analysis** | Outils d'analyse de malware | [github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) |
+| **Awesome Fuzzing** | Outils et ressources de fuzzing | [github.com/cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) |
+| **Awesome Reverse Engineering** | Outils et ressources rétro-ingénierie | [github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) |
+| **Awesome Cryptography** | Bibliothèques et ressources cryptographie | [github.com/sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) |
+| **Awesome Zero Trust** | Outils et ressources architecture Zero Trust | [github.com/pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) |
+| **Awesome DevSecOps** | Outils dans le pipeline de sécurité DevOps | [github.com/TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) |
+| **Awesome IAM** | Gestion des identités et accès | [github.com/kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) |
+| **Awesome Bug Bounty** | Ressources et plateformes de bug bounty | [github.com/djadmin/awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) |
+| **Awesome Honeypots** | Honeypots et outils de déception réseau | [github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) |
+
 
 ---
 
