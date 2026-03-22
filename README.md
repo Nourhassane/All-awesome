@@ -1,8 +1,7 @@
 # 🚀 All-Awesome
 
-> Une collection méticuleusement sélectionnée pour aider les développeurs et les créateurs à trouver les meilleurs outils en un seul endroit. *(Mise à jour 2025)*
+> Une collection méticuleusement sélectionnée pour aider les développeurs et les créateurs à trouver les meilleurs outils en un seul endroit. *(Mise à jour 2026)*
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/Nourhassane/All-awesome?style=flat-square)](https://github.com/Nourhassane/All-awesome/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Nourhassane/All-awesome/pulls)
 
@@ -10,7 +9,7 @@
 
 ## 📚 Table des matières
 
-- [🤖 Assistants IA & Code](#-assistants-ia--code)
+- [🤖 Assistants IA](#-assistants-ia)
 - [🖥️ Éditeurs & IDEs](#️-éditeurs--ides)
 - [🌐 Développement Frontend](#-développement-frontend)
 - [⚙️ Développement Backend](#️-développement-backend)
@@ -30,27 +29,92 @@
 
 ---
 
-## 🤖 Assistants IA & Code
+## 🤖 Assistants IA
 
-> Les outils d'IA qui révolutionnent la façon dont les développeurs écrivent du code.
+> La liste complète des outils d'IA qui révolutionnent le développement logiciel en 2025-2026.
+
+### 🖥️ IDEs IA-natifs
+
+> Environnements de développement entièrement repensés autour de l'IA.
 
 | Outil | Description | Lien |
 |-------|-------------|------|
-| **GitHub Copilot** | L'assistant IA leader du marché intégré à VS Code, JetBrains, etc. Génère du code à partir de commentaires. | [github.com/features/copilot](https://github.com/features/copilot) |
-| **Cursor** | IDE alimenté par IA construit sur VS Code, capable de générer des applications complètes à partir d'instructions. ⭐ *Meilleur 2025* | [cursor.sh](https://cursor.sh) |
-| **Windsurf** | IDE IA nouvelle génération avec un agent autonome pour coder, déboguer et refactoriser. | [codeium.com/windsurf](https://codeium.com/windsurf) |
-| **Codeium** | Outil gratuit d'autocomplétion IA rapide, alternative à Copilot. | [codeium.com](https://codeium.com) |
-| **Tabnine** | Assistant IA qui complète le code en prédisant les lignes suivantes. | [tabnine.com](https://www.tabnine.com) |
-| **Qodo (CodiumAI)** | IA pour écrire, tester et réviser le code avec détection d'erreurs intelligente. | [qodo.ai](https://www.qodo.ai) |
-| **Supermaven** | Complétion de code ultra-rapide s'adaptant à votre stack technologique. | [supermaven.com](https://supermaven.com) |
-| **Amazon Q Developer** | Anciennement CodeWhisperer — assistant IA d'Amazon pour le développement cloud. | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
-| **Devin** | Premier ingénieur logiciel IA autonome capable d'exécuter des tâches complexes de bout en bout. | [cognition.ai](https://www.cognition.ai) |
-| **Claude (Anthropic)** | IA conversationnelle avancée pour le code, le raisonnement et la génération de contenu. | [claude.ai](https://claude.ai) |
-| **Gemini Code Assist** | Assistant IA de Google intégré à VS Code et JetBrains. | [cloud.google.com/gemini/docs/codeassist](https://cloud.google.com/gemini/docs/codeassist) |
-| **Continue** | Extension open-source connectant n'importe quel LLM à votre IDE. | [continue.dev](https://continue.dev) |
-| **Aider** | Assistant IA en ligne de commande pour le pair-programming avec LLMs. | [aider.chat](https://aider.chat) |
-| **GPT-Engineer** | Décrit l'application souhaitée et l'IA construit tout le code. | [github.com/gpt-engineer-org](https://github.com/gpt-engineer-org/gpt-engineer) |
-| **Devstral** | LLM open-source de Mistral AI + All Hands AI, conçu pour les agents de développement. 🆕 | [mistral.ai](https://mistral.ai) |
+| **Cursor** | IDE IA construit sur VS Code — comprend l'ensemble du codebase, refactorisation multi-fichiers, mode Composer. ⭐ *Meilleur 2026* | [cursor.sh](https://cursor.sh) |
+| **Windsurf** | IDE IA-natif avec agent "Cascade" pour suggestions proactives et modèle SWE-1.5 pour tâches complexes. | [windsurf.com](https://windsurf.com) |
+| **Replit** | IDE cloud avec Agent v2 pour construire, déployer et collaborer — 25M+ utilisateurs. | [replit.com](https://replit.com) |
+| **Bolt.new** | IDE agentique dans le navigateur : génère des applications complètes depuis des instructions texte. 🆕 | [bolt.new](https://bolt.new) |
+| **Lovable** | Constructeur d'applications IA dans le navigateur, 0 code requis. 🆕 | [lovable.dev](https://lovable.dev) |
+| **Zed** | Éditeur ultra-rapide avec IA collaborative intégrée en temps réel. | [zed.dev](https://zed.dev) |
+
+### 🔌 Extensions & Plugins IDE
+
+> Assistants IA à intégrer dans votre éditeur existant (VS Code, JetBrains, etc.)
+
+| Outil | Description | Lien |
+|-------|-------------|------|
+| **GitHub Copilot** | Référence absolue — suggestions multi-lignes, mode agent, intégré à VS Code & JetBrains. ⭐ | [github.com/features/copilot](https://github.com/features/copilot) |
+| **Tabnine** | Complétion de code rapide, axé confidentialité, modèles on-premise disponibles. | [tabnine.com](https://www.tabnine.com) |
+| **Codeium** | Autocomplétion IA illimitée et gratuite — 70+ langages, 40+ IDE. | [codeium.com](https://codeium.com) |
+| **Gemini Code Assist** | Propulsé par Gemini 2.5 Pro, sans limite d'usage dans la version gratuite. | [cloud.google.com/gemini/docs/codeassist](https://cloud.google.com/gemini/docs/codeassist) |
+| **Amazon Q Developer** | Assistant IA d'AWS (ex-CodeWhisperer), optimisé pour les workflows cloud Amazon. | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
+| **JetBrains AI Assistant** | IA intégrée aux IDEs JetBrains (IntelliJ, PyCharm, WebStorm, etc.). | [jetbrains.com/ai](https://www.jetbrains.com/ai/) |
+| **Continue** | Extension open-source multi-LLM pour VS Code et JetBrains — connectez n'importe quel modèle. | [continue.dev](https://continue.dev) |
+| **Supermaven** | Complétion ultra-rapide qui s'adapte à votre stack et style de code. | [supermaven.com](https://supermaven.com) |
+| **Qodo Gen** | Génération de code, tests unitaires et revue contextuelle intelligente. | [qodo.ai](https://www.qodo.ai) |
+| **BlackBox AI** | Accès à 300+ modèles IA (Claude, Codex, Gemini...) dans un seul assistant. | [blackbox.ai](https://www.blackbox.ai) |
+| **CodeGPT** | Extension VS Code avec mode agentique et compréhension de dépôt complet. | [codegpt.co](https://codegpt.co) |
+| **IntelliCode (Microsoft)** | Complétion IA contextuelle native à Visual Studio et VS Code. | [visualstudio.microsoft.com/services/intellicode](https://visualstudio.microsoft.com/services/intellicode/) |
+| **Cody (SourceGraph)** | Assistant IA avec compréhension du contexte du dépôt entier via SourceGraph. | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
+| **Zencoder** | Agent IA avec technologie Repo Grokking™ pour des suggestions ultra-précises. 🆕 | [zencoder.ai](https://zencoder.ai) |
+| **Kilo Code** | Extension VS Code légère axée sur des suggestions de code simples et rapides. | [kilocode.ai](https://kilocode.ai) |
+| **AIXcoder** | Complétion de code IA avec analyse en temps réel et détection d'erreurs. | [aixcoder.com](https://www.aixcoder.com) |
+
+### 🤖 Agents autonomes & Terminal
+
+> IA capable d'exécuter des tâches complexes de manière autonome, en ligne de commande ou en mode agent.
+
+| Outil | Description | Lien |
+|-------|-------------|------|
+| **Claude Code** | Agent terminal d'Anthropic — raisonnement complexe, refactoring multi-fichiers, debug en boucle. ⭐ *Top 2026* | [claude.ai/code](https://claude.ai/code) |
+| **Devin** | Premier ingénieur IA autonome — conçoit, exécute et déploie des projets complets. | [cognition.ai](https://www.cognition.ai) |
+| **Aider** | Agent terminal open-source s'intégrant à Git — édite le codebase en langage naturel. | [aider.chat](https://aider.chat) |
+| **Cline** | Extension VS Code open-source, model-agnostic — apportez votre propre clé API. | [github.com/cline/cline](https://github.com/cline/cline) |
+| **GPT-Engineer** | Décrit l'application souhaitée en texte, l'IA génère tout le code. | [github.com/gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) |
+| **OpenHands (OpenDevin)** | Agent IA open-source capable de modifier du code, exécuter des commandes et naviguer. | [github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) |
+| **SWE-agent** | Agent IA de Princeton pour résoudre des issues GitHub automatiquement. | [swe-agent.com](https://swe-agent.com) |
+| **Jules (Google)** | Agent asynchrone de Google pour des tâches multi-étapes dans le code. 🆕 | [jules.google](https://jules.google) |
+| **Manus** | Agent IA autonome de bout en bout pour la recherche et la génération de code. 🆕 | [manus.im](https://manus.im) |
+| **Roo Code** | Agent IA open-source pour le développement assisté en VS Code. | [roo.dev](https://roo.dev) |
+| **Microsoft AutoGen** | Framework Python pour créer des workflows multi-agents collaboratifs. | [github.com/microsoft/autogen](https://github.com/microsoft/autogen) |
+| **CrewAI** | Framework pour orchestrer des équipes d'agents IA travaillant ensemble. | [crewai.com](https://www.crewai.com) |
+
+### 🏗️ Constructeurs No-Code / Low-Code IA
+
+> Créez des applications sans écrire de code — idéal pour prototyper rapidement.
+
+| Outil | Description | Lien |
+|-------|-------------|------|
+| **v0 by Vercel** | Génère des interfaces React/shadcn complètes depuis un simple texte. ⭐ | [v0.dev](https://v0.dev) |
+| **Cursor** | Génère des projets entiers depuis des instructions en langage naturel. | [cursor.sh](https://cursor.sh) |
+| **Bolt.new** | Construisez et déployez des apps web dans le navigateur, sans configuration. | [bolt.new](https://bolt.new) |
+| **Lovable** | Application builder IA complet avec backend et frontend intégrés. | [lovable.dev](https://lovable.dev) |
+| **Firebase Studio** | Workspace Google pour construire des apps full-stack avec Gemini IA. 🆕 | [firebase.studio](https://firebase.studio) |
+| **Flowise** | Drag-and-drop visuel pour construire des flux LLM en TypeScript. | [flowiseai.com](https://flowiseai.com) |
+| **Builder.io** | Génération de UI et conversion de designs en code production-ready. | [builder.io](https://www.builder.io) |
+| **Devstral** | LLM open-source de Mistral + All Hands AI pour agents de développement. 🆕 | [mistral.ai](https://mistral.ai) |
+
+### 🔍 Qualité du code, Tests & Revue IA
+
+> IA spécialisée pour améliorer la qualité, détecter les bugs et automatiser les reviews.
+
+| Outil | Description | Lien |
+|-------|-------------|------|
+| **CodeRabbit** | Revue de code IA automatique sur GitHub/GitLab avec suggestions contextuelles. ⭐ | [coderabbit.ai](https://coderabbit.ai) |
+| **Qodo (tests)** | Génère des tests unitaires, cas limites et tests de propriétés automatiquement. | [qodo.ai](https://www.qodo.ai) |
+| **Snyk Code** | Analyse statique SAST pour détecter les vulnérabilités de sécurité dans le code. | [snyk.io/product/snyk-code](https://snyk.io/product/snyk-code/) |
+| **DeepCode AI** | Analyse de code IA pour détecter les bugs et failles de sécurité. | [snyk.io/platform/deepcode-ai](https://snyk.io/platform/deepcode-ai/) |
+| **Sourcery** | Refactoring automatique et suggestions d'amélioration de code Python. | [sourcery.ai](https://sourcery.ai) |
+| **Mintlify Writer** | Génère automatiquement la documentation à partir du code source. | [mintlify.com/docs/writing/overview](https://mintlify.com/docs/writing/overview) |
 
 ---
 
@@ -457,7 +521,7 @@
 | Symbole | Signification |
 |---------|---------------|
 | ⭐ | Recommandé — incontournable |
-| 🆕 | Nouvel outil sorti en 2024-2025 |
+| 🆕 | Nouvel outil sorti en 2024-2026 |
 | 🔒 | Propriétaire / payant |
 
 ---
