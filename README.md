@@ -8,14 +8,16 @@
 ---
 
 ## 📚 Table des matières
+## 📚 Table des matières
 
+**🌍 Sélections & Outils (Recommandés 2026)**
 - [🤖 Assistants IA](#-assistants-ia)
 - [🖥️ Éditeurs & IDEs](#️-éditeurs--ides)
 - [🌐 Développement Frontend](#-développement-frontend)
 - [⚙️ Développement Backend](#️-développement-backend)
 - [🗄️ Bases de données & Données](#️-bases-de-données--données)
 - [🐳 DevOps & Conteneurs](#-devops--conteneurs)
-- [🔌 APIs & Tests](#-apis--tests)
+- [🔌 APIs & Tests API](#-apis--tests-api)
 - [🔐 Sécurité](#-sécurité)
 - [🎨 Design & UI/UX](#-design--uiux)
 - [📦 Gestion de paquets & Build](#-gestion-de-paquets--build)
@@ -25,8 +27,13 @@
 - [🧪 Tests](#-tests)
 - [🌍 Hébergement & Cloud](#-hébergement--cloud)
 - [📱 Développement Mobile](#-développement-mobile)
-- [🤝 Contribuer](#-contribuer)
+- [🆕 Outils Émergents À Surveiller](#-outils-émergents-à-surveiller)
 
+**🗂️ L'Index Global (60 000+ Outils)**
+- [📚 Index Global des Collections (Awesome Lists)](#️-index-global-des-collections-awesome-lists)
+
+**Informations**
+- [🤝 Contribuer](#-contribuer)
 ---
 
 ## 🤖 Assistants IA
@@ -528,6 +535,10 @@
 
 
 
+## 🗂️ Index Global des Collections (Awesome Lists)
+
+> Retrouvez ici plus de 60 000 outils classés à travers les meilleures Awesome Lists de la communauté.
+
 ### ⚙️ Développement Backend & APIs — Collections Complètes
 
 | Collection | Description | Lien |
@@ -600,7 +611,7 @@
 
 ### 🧪 Tests, Qualité & Outils Divers — Collections Complètes
 
-## 🧪 Tests
+### 🧪 Tests
 
 | Collection | Description | Lien |
 |------------|-------------|------|
@@ -613,7 +624,7 @@
 | **Awesome Load Testing** | Outils de test de charge et performance | [github.com/aliesbelik/awesome-load-testing](https://github.com/aliesbelik/awesome-load-testing) |
 | **Awesome BDD** | Outils Behaviour-Driven Development | [github.com/youngbrioche/awesome-bdd](https://github.com/youngbrioche/awesome-bdd) |
 
-## 🎨 Design & UX
+### 🎨 Design & UX
 
 | Collection | Description | Lien |
 |------------|-------------|------|
@@ -625,7 +636,7 @@
 | **Awesome Typography** | Polices, outils et ressources typographie | [github.com/Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) |
 | **Awesome Color** | Palettes, outils et ressources couleurs | [github.com/Siddharth11/Colorful](https://github.com/Siddharth11/Colorful) |
 
-## 📊 Visualisation & Dashboards
+### 📊 Visualisation & Dashboards
 
 | Collection | Description | Lien |
 |------------|-------------|------|
@@ -633,7 +644,7 @@
 | **Awesome Chart.js** | Extensions et ressources Chart.js | [github.com/chartjs/awesome](https://github.com/chartjs/awesome) |
 | **Awesome Plotly** | Ressources et exemples Plotly | [github.com/adithya-s-sekhar/awesome-plotly](https://github.com/adithya-s-sekhar/awesome-plotly) |
 
-## ⚡ Productivité & Outils Terminal
+### ⚡ Productivité & Outils Terminal
 
 | Collection | Description | Lien |
 |------------|-------------|------|
@@ -647,7 +658,7 @@
 | **Awesome ZSH** | Plugins et thèmes ZSH | [github.com/unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) |
 | **Awesome tmux** | Plugins et ressources tmux | [github.com/rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) |
 
-## 🎮 Développement de Jeux
+### 🎮 Développement de Jeux
 
 | Collection | Description | Lien |
 |------------|-------------|------|
@@ -657,7 +668,7 @@
 | **Awesome Unreal** | Ressources Unreal Engine | [github.com/insthync/awesome-ue4](https://github.com/insthync/awesome-ue4) |
 | **Awesome WebGL** | Bibliothèques et ressources WebGL | [github.com/sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) |
 
-## 🔗 Blockchain & Web3
+### 🔗 Blockchain & Web3
 
 | Collection | Description | Lien |
 |------------|-------------|------|
